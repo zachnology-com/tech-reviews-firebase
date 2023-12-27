@@ -2,6 +2,22 @@
     "episodes": [
         {
             "isEpisode": false,
+            "seasonNumber": 4
+        },
+        {
+            "audio": "https://anchor.fm/s/28075148/podcast/play/79174279/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F28075148%2F79174279%2F1a905095bc268bd9f2892705470beea8.m4a",
+            "description": "In this Season 4 premiere episode, Charlie and Zach break down all of the latest tech news including new MacBook, iPhone, and Google Pixel devices.",
+            "home_number": "S4 - Episode 1",
+            "id": 25,
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/tnu.jpg",
+            "isEpisode": true,
+            "published": "Dec 22, 2023",
+            "short_number": "S4:E1",
+            "short_title": "New Apple and Android Products",
+            "title": "S4:E1 - New Apple and Android Products"
+        },
+        {
+            "isEpisode": false,
             "seasonNumber": 3
         },
         {
