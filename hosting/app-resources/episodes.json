@@ -1,0 +1,293 @@
+{
+    "episodes": [
+        {
+            "isEpisode": false,
+            "seasonNumber": 3
+        },
+        {
+            "audio": "https://anchor.fm/s/28075148/podcast/play/72573212/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F28075148%2F72573212%2F060f399ef9f81ce2b73a28fdb7e68b71.m4a",
+            "description": "In this season finale, Charlie and Zach explain everything you need to know about the history, present state, and future of electric vehicles.",
+            "home_number": "S3 - Episode 6",
+            "id": 24,
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/regular.jpg",
+            "isEpisode": true,
+            "published": "Jun 25, 2023",
+            "short_number": "S3:E6",
+            "short_title": "Electric Vehicles in 2023",
+            "title": "S3:E6 - Electric Vehicles in 2023"
+        },
+        {
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/production/exports/28075148/67447443/99657a9ba5bc142ba0e65d6fd618beb7.m4a",
+            "description": "Is your smart home really as 'smart' as you thought it was? In this episode of Tech Reviews in 5, Charlie and Zach break it all down.",
+            "home_number": "S3 - Episode 5",
+            "id": 23,
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/tr5.jpg",
+            "isEpisode": true,
+            "published": "Apr 2, 2023",
+            "short_number": "S3:E5",
+            "short_title": "Reality of Smart Homes",
+            "title": "S3:E5 - Reality of Smart Homes"
+        },
+        {
+            "id": 22,
+            "short_number": "S3:E4",
+            "short_title": "5G Expectations vs. Reality",
+            "title": "S3:E4 - 5G Expectations vs. Reality",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/regular.jpg",
+            "description": "Many users are underwhelmed with the performace of 5G technology compared to 4G LTE, and Zach and Charlie break down all the reasons why in this final episode of 2022.",
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/production/exports/28075148/62879454/9eee23dec54e003f4caf557085461119.m4a",
+            "published": "Dec 30, 2022",
+            "isEpisode": true
+        },
+        {
+            "id": 21,
+            "short_number": "S3:E3",
+            "short_title": "Sports Streaming in 2022",
+            "title": "S3:E3 - Sports Streaming in 2022",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/tr5.jpg",
+            "description": "Baseball on Apple? Football on Amazon? If you're confused by the move of sports broadcats to streaming and are wondering what this means for you, Charlie and Zach break down all the latest in this episode.",
+            "audio": "https://anchor.fm/s/28075148/podcast/play/59279893/sponsor/a3vggso/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F28075148%2F59279893%2Ff309c2f99e67e357ed6a82384dbefa39.m4a",
+            "published": "Oct 19, 2022",
+            "isEpisode": true
+        },
+        {
+            "id": 20,
+            "short_number": "S3:E2",
+            "short_title": "Apple Event September 2022",
+            "title": "S3:E2 - Apple Event September 2022",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/tnu.jpg",
+            "description": "New iPhones, AirPods, and Apple Watches? Catch up on what you missed at September's Apple Event right here on the Zachnology Tech Review Podcast.",
+            "audio": "https://anchor.fm/s/28075148/podcast/play/57880117/sponsor/a3vggso/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F28075148%2F57880117%2Fe60cb76f608542bf94b634e7bff79dbb.m4a",
+            "published": "Sep 20, 2022",
+            "isEpisode": true
+        },
+        {
+            "id": 19,
+            "short_number": "S3:E1",
+            "short_title": "Green vs. Blue Text Controversy",
+            "title": "S3:E1 - Green vs. Blue Text Controversy",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/regular.jpg",
+            "description": "In this Season 3 Premiere episode, Zach and Charlie break down the latest controversy between Apple and Android: Texting.",
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/production/exports/28075148/56218776/e297d0502de894f88ca7eadc8bb4a48d.m4a",
+            "published": "Aug 18, 2022",
+            "isEpisode": true
+        },
+        {
+            "isEpisode": false,
+            "seasonNumber": 2
+        },
+        {
+            "id": 18,
+            "short_number": "S2:E8",
+            "short_title": "Apple WWDC 2022",
+            "title": "S2:E8 - Apple WWDC 2022",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/tnu.jpg",
+            "description": "In this Tech News Update, Charlie and Zach break down all of the latest product announcements from the Apple Developer Conference in June 2022.",
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/production/exports/28075148/53541803/fb749ff4d00100fd02bc3ea8439bfa0f.m4a",
+            "published": "June 15, 2022",
+            "isEpisode": true
+        },
+        {
+            "id": 17,
+            "short_number": "S2:E7",
+            "short_title": "Google I/O 2022",
+            "title": "S2:E7 - Google I/O 2022",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/tnu.jpg",
+            "description": "After an exciting Google I/O event last week, Charlie and Zach break down all of the latest product launches",
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/production/exports/28075148/52003870/439224354f6e0a29cf382014f4d260c8.m4a",
+            "published": "May 15, 2022",
+            "isEpisode": true
+        },
+        {
+            "id": 16,
+            "short_number": "S2:E6",
+            "short_title": "Apple Event March 2022",
+            "title": "S2:E6 - Apple Event March 2022",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/tnu.jpg",
+            "description": "Charlie and Zach break down all of the latest news from Tim Cook and Apple",
+            "audio": "https://anchor.fm/s/28075148/podcast/play/49336680/sponsor/a3vggso/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F28075148%2F49336680%2Fe3790bf46b3bd026b42e44f80841de4a.m4a",
+            "published": "March 26, 2022",
+            "isEpisode": true
+        },
+        {
+            "id": 15,
+            "short_number": "S2:E5",
+            "short_title": "Apple CarPlay/Android Auto",
+            "title": "S2:E5 - Apple CarPlay/Android Auto",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/tr5.jpg",
+            "description": "Zach and Charlie are back in this episode of TR5 to break down Apple CarPlay and Android Auto.",
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/production/exports/28075148/47337842/6af0594e77632b6d76705fe779921a3a.m4a",
+            "published": "Feb 7, 2022",
+            "isEpisode": true
+        },
+        {
+            "id": 14,
+            "short_number": "S2:E4",
+            "short_title": "Google Event News",
+            "title": "S2:E4 - Google Event News",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/tnu.jpg",
+            "description": "In this Tech News Update, Charlie and Zach break down all the latest news from the Google event regarding the Pixel 6, Android 12, and more!",
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-10-27/6c2baf193ab25e913d6fa6294840df5d.m4a",
+            "published": "Oct 26, 2021",
+            "isEpisode": true
+        },
+        {
+            "id": 13,
+            "short_number": "S2:E3",
+            "short_title": "Apple Privacy Concerns",
+            "title": "S2:E3 - Apple Privacy Concerns",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/tr5.jpg",
+            "description": "In this Tech Review in 5, Charlie and Zach will explain the controversy surrounding Apple's 'Do Not Track' feature.",
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-09-26/d038c32fe781b102709ebb29b45be166.m4a",
+            "published": "Sep 25, 2021",
+            "isEpisode": true
+        },
+        {
+            "id": 12,
+            "short_number": "S2:E2",
+            "short_title": "Apple Event 2021",
+            "title": "S2:E2 - Apple Event 2021",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/tnu.jpg",
+            "description": "Charlie and Zach will break down all the announcements and latest updates regarding the new Apple Watch, iPad, iPhone, and more.",
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-09-17/ec660bb018bf54c5b447071040480540.m4a",
+            "published": "Sep 16, 2021",
+            "isEpisode": true
+        },
+        {
+            "id": 11,
+            "short_number": "S2",
+            "short_title": "Summer Update",
+            "title": "Season 2 Summer Update",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/regular.jpg",
+            "description": "Charlie and Zach announce when Season 2 of the Zachnology Tech Review Podcast will be released.",
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-6-26/208191075-44100-2-0875532bdc444.m4a",
+            "published": "Jul 26, 2021",
+            "isEpisode": true
+        },
+        {
+            "isEpisode": false,
+            "seasonNumber": 1
+        },
+        {
+            "id": 10,
+            "short_number": "S1:E11",
+            "short_title": "Season 1 Finale: Windows 11 and Bloopers",
+            "title": "S1:E11 - Windows 11 and Bloopers",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/regular.jpg",
+            "description": "In this last episode of Season 1, Charlie and Zach discuss the rumors about Windows 11 while reflecting on how the podcast has grown and taking a look at some of the funniest bloopers so far",
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-08-17/548c29d6d908e59388861bcb928ac0ec.m4a",
+            "published": "June 22, 2021",
+            "isEpisode": true
+        },
+        {
+            "id": 9,
+            "short_number": "S1:E10",
+            "short_title": "MagSafe Concerns and Amazon Sidewalk",
+            "title": "S1:E10 - MagSafe Concerns and Amazon Sidewalk",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/tnu.jpg",
+            "description": "Charlie and Zach discuss the serious safety risk with MagSafe on Apple's iPhone 12 and the security and privacy concerns with Amazon Sidewalk.",
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-08-17/5c137262013cf076cf028ebe56b53095.m4a",
+            "published": "June 6, 2021",
+            "isEpisode": true
+        },
+        {
+            "id": 8,
+            "short_number": "S1:E9",
+            "short_title": "Bluetooth Trackers",
+            "title": "S1:E9 - Bluetooth Trackers",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/tr5.jpg",
+            "description": "In this TR5, Charlie and Zach explain what Bluetooth trackers are, how they work, and some of the most popular devices on the market.",
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-08-17/5cc9895ce63cc59a1fca9fcf82aebbb0.m4a",
+            "published": "May 13, 2021",
+            "isEpisode": true
+        },
+        {
+            "id": 7,
+            "short_number": "S1:E8",
+            "short_title": "iOS vs. Android",
+            "title": "S1:E8 - iOS vs. Android",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/regular.jpg",
+            "description": "In this long-awaited episode, Zach and Charlie review and debate the most popular mobile phone operating systems, iOS and Android.",
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-08-17/195e04b684ab5123ebf1a6b30afdeccd.m4a",
+            "published": "May 3, 2021",
+            "isEpisode": true
+        },
+        {
+            "id": 6,
+            "short_number": "S1:E7",
+            "short_title": "Zachnology Apps & Websites TR5",
+            "title": "S1:E7 - Zachnology Apps & Websites TR5",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/tr5.jpg",
+            "description": "In our second edition of TR5, Zach and Charlie will have a special announcement about our new Zachnology App and will talk about some of the features of our websites.",
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-08-17/f59c3161d8a05d17dc1e8b9cdeea990b.m4a",
+            "published": "March 28, 2021",
+            "isEpisode": true
+        },
+        {
+            "id": 5,
+            "short_number": "S1:E6",
+            "short_title": "VPNs",
+            "title": "S1:E6 - VPNs",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/regular.jpg",
+            "description": "We'll take a look at what a VPN (virtual private network) is, how you can protect yourself online, and what some of the best VPN providers are.",
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-08-17/bcf6b31c68a72e3bcbe9e17ca2a176e2.m4a",
+            "published": "March 20, 2021",
+            "isEpisode": true
+        },
+        {
+            "id": 4,
+            "short_number": "S1:E5",
+            "short_title": "TR5: What is 5G?",
+            "title": "S1:E5 - TR5: What is 5G?",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/tr5.jpg",
+            "description": "In this premiere episode of TR5, Zach and Charlie explain one of the hottest tech topics today, 5G technology.",
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-08-17/579054f7413bc190379d8d05e50c4d2e.m4a",
+            "published": "March 2, 2021",
+            "isEpisode": true
+        },
+        {
+            "id": 3,
+            "short_number": "S1:E4",
+            "short_title": "Password Security",
+            "title": "S1:E4 - Password Security",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/regular.jpg",
+            "description": "Zach and Charlie will talk about best pratices for password security and some reliable password managers.",
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-08-17/d44e54eb48ba97f88a68254d890baf32.m4a",
+            "published": "Feb 23, 2021",
+            "isEpisode": true
+        },
+        {
+            "id": 2,
+            "short_number": "S1:E3",
+            "short_title": "Live TV",
+            "title": "S1:E3 - Live TV",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/regular.jpg",
+            "description": "Charlie and Zach compare Cable, Satellite, and Streaming for TV service.",
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-08-17/10d12593a09665f555d7792f7ce9cc3b.m4a",
+            "published": "Jan 1, 2021",
+            "isEpisode": true
+        },
+        {
+            "id": 1,
+            "short_number": "S1:E2",
+            "short_title": "Smart Homes",
+            "title": "S1:E2 - Smart Homes",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/regular.jpg",
+            "description": "Charlie and Zach will teach you everything you need to know about Smart Homes! We'll be explaining what a smart home is, how it works, and listing some popular companies.",
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-08-17/127095e447b2faeec7f0d7842d2664d8.m4a",
+            "published": "Nov 29, 2020",
+            "isEpisode": true
+        },
+        {
+            "id": 0,
+            "short_number": "S1:E1",
+            "short_title": "Video Calling Apps",
+            "title": "S1:E1 - Video Calling Apps",
+            "image": "https://tech-reviews.zachnology.com/app-resources/images/regular.jpg",
+            "description": "Learn all about 10 of the best video conferencing apps in 2020",
+            "audio": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-08-17/de25f986f5dac0a41bed455ca9cb0390.m4a",
+            "published": "Jun 24, 2020",
+            "isEpisode": true
+        }
+    ]
+}

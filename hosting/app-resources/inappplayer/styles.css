@@ -1,0 +1,43 @@
+.episode-card {
+    background-color: #fafafa;
+    border-color: grey;
+    border-width: 2px;
+    border-style: solid;
+    height: 150px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.episode-image {
+    height: 90px;
+    width: 90px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+
+.episode-title {
+     display: block;
+     padding-left: 20px;
+}
+
+.inner-items {
+    display: block;
+    width: 100%;
+}
+
+audio::-webkit-media-controls-panel {
+    background-color: #fafafa;
+    
+}
+audio::-webkit-media-controls-current-time-display {
+    display: none;
+}
+audio::-webkit-media-controls-time-remaining-display {
+    display: none;
+}
+audio { 
+    width: 98%;
+    padding-left: 5px; }
